@@ -1,3 +1,16 @@
+"""
+Today's Mission:
+Build a mad libs game that asks for:
+
+Adjective
+
+Noun
+
+Verb
+
+Prints a funny story using them
+
+"""
 #interactive programming
 name=input("What's your name?")
 age=input("What's your age?")
