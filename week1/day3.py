@@ -35,5 +35,7 @@ elif int(marks) >60:
     print("You have secured C Grade")
 elif int(marks) >50:
     print("You have secured D Grade")
+elif type(marks)==str:
+    print("You are dead")
 else:
     print("You have secured E Grade and you have no hopes")
